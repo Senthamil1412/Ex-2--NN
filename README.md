@@ -1,6 +1,6 @@
 <H3>Name: SENTHAMIL SELVAN G</H3>
 <H3>Register no.212222230139</H3>
-<H3>Date:9/11/2024</H3>
+<H3>Date:3/11/2024</H3>
 <H3>Experiment No. 2 </H3>
 
 ## Implementation of Perceptron for Binary Classification
